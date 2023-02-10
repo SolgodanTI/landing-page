@@ -43,6 +43,10 @@
   padding: 30px;
 }
 
+.header-dirigido {
+  font-size: 8em;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

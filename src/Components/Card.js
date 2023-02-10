@@ -7,8 +7,8 @@ function Card(props) {
         <div className='card-container' >
 
             <img className='image-container'
-                src={require(`../imagenes/testimonio-${props.photo}.png`)}
-                alt='Foto de Asg' />
+                src={require(`../imagenes/cctv-${props.photo}.jpg`)}
+                alt='Foto A quien va dirigido.' />
 
             <div className='card-content'>
 
